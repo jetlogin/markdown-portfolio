@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Anyone* can learn **any technology** on a decent level. But only those who continue to work on their skills become __professionals__.
